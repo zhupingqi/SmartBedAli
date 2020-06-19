@@ -1,0 +1,15 @@
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_mqtt.c
+smartbedali\dev_sign_mqtt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+smartbedali\dev_sign_mqtt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\infra\infra_defs.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\infra\infra_types.h
+smartbedali\dev_sign_mqtt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\infra\infra_config.h
+smartbedali\dev_sign_mqtt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\infra\infra_sha256.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_api.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_internal.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_config.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_api.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_wrapper.h
+smartbedali\dev_sign_mqtt.o: ..\Src\linkkit\dev_sign\dev_sign_wrapper.h

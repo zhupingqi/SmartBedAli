@@ -1,0 +1,15 @@
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\atm\at_conn_mgmt.c
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\infra\infra_types.h
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\infra\infra_config.h
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\atm\at_wrapper.h
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+smartbedali\at_conn_mgmt.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\wrappers\wrappers_defs.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\infra\infra_defs.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\atm\at_conn_mbox.h
+smartbedali\at_conn_mgmt.o: ..\Src\linkkit\atm\at_conn_mgmt.h

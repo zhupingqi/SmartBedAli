@@ -1,0 +1,35 @@
+smartbedali\dma.o: ../Src/dma.c
+smartbedali\dma.o: ../Inc/dma.h
+smartbedali\dma.o: ../Inc/main.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+smartbedali\dma.o: ../Inc/stm32f4xx_hal_conf.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+smartbedali\dma.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+smartbedali\dma.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f405xx.h
+smartbedali\dma.o: ../Drivers/CMSIS/Include/core_cm4.h
+smartbedali\dma.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+smartbedali\dma.o: ../Drivers/CMSIS/Include/cmsis_version.h
+smartbedali\dma.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+smartbedali\dma.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+smartbedali\dma.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+smartbedali\dma.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+smartbedali\dma.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+smartbedali\dma.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
